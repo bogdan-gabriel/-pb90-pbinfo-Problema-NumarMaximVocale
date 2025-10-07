@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759858281 source:c:\users\bogda\onedrive\desktop\liceu clasa a xi-a 2023-2024\info 10a\numarmaximvocale\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
